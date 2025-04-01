@@ -21,12 +21,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RaoufAbi/RaoufAbi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Web development</h2>
 
 ###
