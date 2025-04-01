@@ -1,14 +1,8 @@
-<h1 align="left">Hi 👋! My name is Abde Raouf Abi</h1>
+<h1 align="center">Hi 👋! My name is Abde Raouf Abi</h1>
 
 ###
 
-<h2 align="left">Artificial Intelligence & Full Stack Developer</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
-</div>
+<h2 align="center">Artificial Intelligence & Full Stack Developer</h2>
 
 ###
 
