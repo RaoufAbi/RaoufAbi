@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RaoufAbi/RaoufAbi/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RaoufAbi/RaoufAbi/output/snake.svg" alt="Snake animation" />
 
 ###
 
